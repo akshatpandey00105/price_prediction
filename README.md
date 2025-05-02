@@ -42,7 +42,6 @@ A machine learning pipeline was built to:
 - Lasso Regression  
 - Random Forest Regressor  
 
-✅ Best Performance: Random Forest showed the lowest MAE and RMSE, making it the most reliable model.
 
 ## 📊 Evaluation Metrics
 - R² Score
