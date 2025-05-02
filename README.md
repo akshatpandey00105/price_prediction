@@ -70,10 +70,10 @@ A machine learning pipeline was built to:
    git clone https://github.com/akshatpandey00105/car-price-prediction.git
    cd car-price-prediction
 2. Install dependencies:
-   bash
+   ```bash
    pip install -r requirements.txt
 3. Run the Jupyter notebook:
-   bash
+   ```bash
    jupyter notebook Car_Price_Prediction.ipynb
 
 
