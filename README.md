@@ -63,18 +63,6 @@ A machine learning pipeline was built to:
 - Add explainability using SHAP or LIME  
 - Expand dataset with location, accident history, etc.
 
-## 🧪 How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/akshatpandey00105/car-price-prediction.git
-   cd car-price-prediction
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-3. Run the Jupyter notebook:
-   ```bash
-   jupyter notebook Car_Price_Prediction.ipynb
 
 
  License
