@@ -45,9 +45,6 @@ A machine learning pipeline was built to:
 ✅ Best Performance: Random Forest showed the lowest MAE and RMSE, making it the most reliable model.
 
 ## 📊 Evaluation Metrics
-
-- Mean Absolute Error (MAE)  
-- Root Mean Squared Error (RMSE)  
 - R² Score
 
 ## 📈 Result Highlights
